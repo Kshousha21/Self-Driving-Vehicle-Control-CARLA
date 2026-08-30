@@ -2,9 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Generated controller artifacts
-controller_output/
-
 # Local editor and operating-system files
 .vscode/
 .idea/
